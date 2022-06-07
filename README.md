@@ -1,1 +1,1 @@
-# rsschool-cv
+https://JoJing.github.io/rsschool-cv/cv
