@@ -11,9 +11,9 @@ I am 20 years old, I study as a information security stundent. I don't really in
 * JavaScript
 * Python
 * C++
-## __Codee Examples__
+## __Code Examples__
 ```
-function past(h, m, s){
+function timeToMillisecond(h, m, s){
   return(h * 3600000 + m * 60000 + s * 1000);
 }
 ```
